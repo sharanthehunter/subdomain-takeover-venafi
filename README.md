@@ -15,6 +15,10 @@ Steps to reproduce :
 2. And it is throwing an error as mentioned below
 
 
+![image](https://user-images.githubusercontent.com/84071887/234296627-59950c1c-c1c7-4f52-a3da-2cb2ba7d2e06.png)
+
+
+
 #Non-Hub domain
 
 The URL you have accessed does not provide a hub. Please check the URL and try again.
