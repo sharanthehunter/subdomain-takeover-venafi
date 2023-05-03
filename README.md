@@ -40,4 +40,4 @@ Impact : Subdomain takeover
 Thank you for notifying us about this issue. Venafi's security teams are already aware of this problem which has been resolved.
 
 
--Venafi Security
+- Venafi Security
